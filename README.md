@@ -6,6 +6,9 @@
  <img src="https://drive.google.com/uc?export=view&id=1KuR0JpMMzlRvbOiOqd-EczAyuTVuG1Yv" width="500" alt="Image">
 </div>
 
+# Search
+1. สามารถค้นหา App จากชื่อได้
+
 # Drag And Drop
 1. สามารถจัดเรียง App ได้
 2. สามารถบันทึกการจัดเรียง App ลง Local storage ได้
